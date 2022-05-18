@@ -1,5 +1,5 @@
 # MakeAVerificationCodeImageForWeb
-### 网页产生图片验证码
+### 产生网页图片验证码
 - 开发环境：idea2019.3，tomcat9.0
 - 实现技术：servlet
 - 实现功能：显示验证码并且有随机线条干扰
