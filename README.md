@@ -3,7 +3,6 @@
 - 开发环境：java1.8，idea2019.3，tomcat9.0
 - 实现技术：servlet
 - 实现功能：显示验证码并且有随机线条干扰
-- 资料地址：https://www.bilibili.com/video/BV12P4y1h7v1
 
 ##### 快速运行
 - 使用IDEA导入项目
